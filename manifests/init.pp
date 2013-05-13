@@ -1,3 +1,8 @@
+# Public: Install PyCharm from dmg.
+#
+# Examples
+#
+#   include pycharm
 class pycharm (
   $version = '2.7.1',
 ) {
